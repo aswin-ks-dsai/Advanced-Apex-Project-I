@@ -91,7 +91,8 @@ Running the notebook will:
 - Reduce correlated features  
 - Identify optimal k using Elbow + Silhouette  
 - Train **K-Means (k = 7)**  
-- Run inference on production dataset  
+- Run inference on production dataset
+- Evaluate the predictions
 - Generate analysis plots  
 - Save artifacts for reuse  
 
