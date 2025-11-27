@@ -42,7 +42,7 @@ project/
 │   ├── Bean_Data_25pct_Eval_Inf.csv
 │   ├── predictions.csv
 │   ├── result_summary.csv
-|
+│
 ├── artifacts/
 │   ├── selected_features.pkl
 │   ├── kmeans_model.pkl
