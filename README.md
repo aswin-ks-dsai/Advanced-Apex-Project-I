@@ -32,7 +32,7 @@ Seker, Barbunya, Bombay, Cali, Dermosan, Horoz, and Sira — Dry Bean Dataset.
 UCI Machine Learning Repository (CC BY 4.0).
 
 ---
-## 📁 Repository Structure
+## 📁 Repository Structure (The structure and files formed after executing the entire notebook)
 
 ```txt
 project/
@@ -40,7 +40,9 @@ project/
 │   ├── Bean_Data_Full.csv
 │   ├── Bean_Data_75pct.csv
 │   ├── Bean_Data_25pct_Eval_Inf.csv
-│
+│   ├── predictions.csv
+│   ├── result_summary.csv
+|
 ├── artifacts/
 │   ├── selected_features.pkl
 │   ├── kmeans_model.pkl
