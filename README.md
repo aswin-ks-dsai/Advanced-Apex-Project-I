@@ -1,7 +1,6 @@
 # Clustering Biological Specimens by Morphological Features
 
-End-to-end unsupervised learning pipeline for clustering Dry Bean biological specimens using morphological shape and size features.  
-Includes full workflow: data extraction, preprocessing, feature engineering, optimal-k selection (Elbow + Silhouette), K-Means training, inference on production data, and internal evaluation.
+End-to-end unsupervised learning pipeline for clustering Dry Bean biological specimens using morphological shape and size features. Includes full workflow: data extraction, preprocessing, feature engineering, optimal-k selection (Elbow + Silhouette), K-Means training, inference on production data, and internal evaluation.
 
 ---
 
